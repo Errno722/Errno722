@@ -8,7 +8,8 @@
 
 ### 支付宝
 
-<img width="1115" height="1115" alt="IMG_0488 2" src="https://github.com/user-attachments/assets/95308c42-c989-4910-8ddf-9760aea118eb" />
+<img width="363" height="363" alt="IMG_0488_363x363" src="https://github.com/user-attachments/assets/d26ff9b8-029a-4c0e-8464-bb677cdbed40" />
+
 
 ### 微信
 
