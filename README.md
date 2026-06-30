@@ -12,17 +12,8 @@ I am exploring AI agents, low-code workflows, and practical tools for messy real
 
 ## About me
 
-我关注 AI Agent、低代码智能体、Prompt / Skill 设计，以及把混乱输入整理成可执行工作流的工具。
-
-## Current focus
-
-```text
-AI Agent
-Coze / low-code agent
-Career cognition
-Prompt and skill design
-Messy input to clear action
-```
+gap中；
+找工作中。
 
 ## Public projects
 
