@@ -6,19 +6,14 @@
 
 ## 支持方式
 
-### 支付宝赞赏
+### 支付宝
 
-你可以把支付宝赞赏码图片放在个人主页仓库的这个位置：
+<img width="1115" height="1115" alt="IMG_0488 2" src="https://github.com/user-attachments/assets/95308c42-c989-4910-8ddf-9760aea118eb" />
 
-```text
-assets/alipay-qrcode.png
-```
+### 微信
 
-然后把下面这一行取消注释或替换为你的二维码图片：
+<img width="363" height="363" alt="IMG_0489" src="https://github.com/user-attachments/assets/7be5946b-f3af-4309-98bf-3d6f02d2a11e" />
 
-```markdown
-![Alipay sponsor QR code](assets/alipay-qrcode.png)
-```
 
 ## 边界说明
 
