@@ -12,8 +12,17 @@ I am exploring AI agents, low-code workflows, and practical tools for messy real
 
 ## About me
 
-gap中；
-找工作中。
+我关注 AI Agent、低代码智能体、Prompt / Skill 设计，以及把混乱输入整理成可执行工作流的工具。
+
+## Current focus
+
+```text
+AI Agent
+Coze / low-code agent
+Career cognition
+Prompt and skill design
+Messy input to clear action
+```
 
 ## Public projects
 
@@ -27,3 +36,5 @@ gap中；
 Email: [weihb96@gmail.com](mailto:weihb96@gmail.com)
 
 Project feedback: [CCC issues](https://github.com/Errno722/CCC-career-cognition-compass/issues)
+
+Support: [Sponsor.md](Sponsor.md)
