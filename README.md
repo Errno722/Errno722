@@ -28,3 +28,5 @@ Email: [weihb96@gmail.com](mailto:weihb96@gmail.com)
 Project feedback: [CCC issues](https://github.com/Errno722/CCC-career-cognition-compass/issues)
 
 Support: [Sponsor.md](Sponsor.md)
+
+VPN: https://bun.cetkny.store/#/register?code=5eAronkZ
